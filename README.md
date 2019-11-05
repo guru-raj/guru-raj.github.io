@@ -1,2 +1,4 @@
-# testAppGuru.github.io
-Google API Testing
+The following app is an implementation of: 
+- Microservice architecture in NodeJS
+- Google login API Testing
+- NodeJS Practice
